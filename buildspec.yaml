@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/Sample-AWS-1.0.jar
+    - target/Sample-AWS-1.0-SNAPSHOT.jar
